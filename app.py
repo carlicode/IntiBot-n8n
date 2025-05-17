@@ -5,7 +5,7 @@ import pytz
 import time
 
 # URL del webhook de producción de tu workflow en n8n
-WEBHOOK_URL = "http://localhost:5678/webhook/fedb82e6-11f2-4749-9e3b-99e8051e7ae6"
+WEBHOOK_URL = "https://nowbit.app.n8n.cloud/webhook/fedb82e6-11f2-4749-9e3b-99e8051e7ae6"
 
 st.set_page_config(page_title="🤖 IntiBot", layout="centered")
 
