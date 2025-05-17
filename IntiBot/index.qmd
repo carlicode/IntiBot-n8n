@@ -1,0 +1,100 @@
+---
+title: "IntiBot: RAG para el Quechua"
+format: revealjs
+---
+
+## 🌄 NLP para la preservación del lenguaje indígena Quechua
+
+🗓️ Sábado 17 de mayo, 2025 | 🕛 12:00–12:30 p.m.  
+📍 Sala 310/311 – PyCon USA 🇺🇸  
+👩‍🏫 Presentado por: **Carla Marcela Florida Román**
+
+---
+
+## 📌 Descripción
+
+El quechua, hablado por más de **2.8 millones de personas en Bolivia**, es uno de los idiomas indígenas más importantes del país. 
+
+Sin embargo, enfrenta serias amenazas debido a la modernización y la globalización.
+
+Esta charla explora cómo las técnicas de **Procesamiento de Lenguaje Natural (NLP)** pueden ser una herramienta crucial para su revitalización y preservación.
+
+---
+
+## 📊 Contexto y relevancia
+
+- El **21% de la población boliviana habla quechua** 🗣️
+- Lengua fundamental para la identidad y cultura andina
+- Su uso está en **declive**, especialmente entre los jóvenes
+
+---
+
+## 📉 Problemas actuales
+
+- Muy pocos **corpus digitales** disponibles 📄
+- Recursos lingüísticos fragmentados o no estandarizados
+- Limitado acceso a tecnologías lingüísticas para quechua
+
+---
+
+## 🧠 Desafíos técnicos en NLP para lenguas indígenas
+
+- Poca disponibilidad de **datos estructurados**
+- Dificultad para aplicar modelos preentrenados (como BERT, GPT)
+- Necesidad de hacer **fine-tuning o RAG** con fuentes locales
+
+---
+
+## 🌱 Iniciativas emergentes
+
+- Libros educativos digitalizados como *Qallarinapaq*
+- Modelos multilingües con soporte parcial para quechua
+- Proyectos comunitarios e individuales que aportan datasets
+
+---
+
+## ✨ ¿Qué podemos hacer con NLP?
+
+- Crear bots educativos como **YachayBot** o **IntiBot** 🦙🤖
+- Implementar sistemas RAG (Retrieval-Augmented Generation)
+- Generar juegos estilo Duolingo que enseñen **quechua con cosmovisión**
+- Democratizar acceso a conocimiento ancestral
+
+---
+
+## ✍️ ¿Cómo se escribe el quechua?
+
+El quechua usa un alfabeto con 3 vocales (i, u, a) y múltiples consonantes con variantes aspiradas y glotalizadas. Algunos principios clave:
+
+- Solo se usan las vocales i, u, a (no e, o)
+- La presencia de "q" cambia la pronunciación:
+  - irqi → se pronuncia [erqe]
+  - urqu → se pronuncia [orqo]
+- Las consonantes como p, t, ch, k, q cambian su sonido dependiendo de la posición:
+  - pusaq → se pronuncia [pusax]
+  - llip’t’a → se pronuncia [llujt’a]
+
+La escritura es fonémica y normalizada: busca representar sonidos de forma consistente en todas las regiones.
+
+---
+
+## 🌍 Impacto social y cultural
+
+- Promueve el acceso a la información en lengua materna
+- Fomenta el orgullo cultural y la revitalización del idioma
+- Visibiliza saberes indígenas en el ámbito digital
+
+---
+
+## 🎯 Objetivo de esta charla
+
+Inspirar a la comunidad Python y NLP a:
+- Contribuir a la revitalización del quechua 🧠📚
+- Participar en la creación de recursos y modelos accesibles
+- Aplicar IA para preservar y expandir lenguas originarias 💬🌱
+
+---
+
+## 🦙 ¡Jallalla Quechua, Jallalla Python!
+
+> La inteligencia artificial no reemplaza culturas… ¡las puede amplificar si se usa con respeto y amor! 💚
